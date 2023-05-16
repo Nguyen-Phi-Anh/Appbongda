@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725200087717",
+    "project_id": "appbongda-ed1aa",
+    "storage_bucket": "appbongda-ed1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725200087717:android:f6525e736384bea1ae7b4c",
+        "android_client_info": {
+          "package_name": "com.example.appbongda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725200087717-l3tvpbk7b963i2vkfln6nmk1nbktglut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Kkmw1-cboenshdfDM2HENs8kSrmBQts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725200087717-l3tvpbk7b963i2vkfln6nmk1nbktglut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
